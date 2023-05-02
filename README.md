@@ -13,8 +13,8 @@ INFO
 
 ## Tecnologías
 
--IntelliJ 
--GitHub
+- IntelliJ 
+- GitHub
 
 ## Funcionalidades
 
@@ -22,9 +22,9 @@ El proyecto consta de 5 gráficos, los cuales representan diferentes estadístic
 
 ## Instalación
 
-1-Crear la carpeta en la cual se instalara el proyecto.
-2-Colocar "cmd" en la terminal.
-3-Colocar git clone https://github.com/azubillagasdam1/ESTADISTICAS-NAVARRA.git
+- Crear la carpeta en la cual se instalara el proyecto.
+- Colocar "cmd" en la terminal.
+- Colocar git clone https://github.com/azubillagasdam1/ESTADISTICAS-NAVARRA.git
 
 ## Uso
 
