@@ -1,0 +1,625 @@
+<data>
+  <row>
+    <Nacionalidad>Total</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>21.376</Total>
+  </row>
+  <row>
+    <Nacionalidad>Total</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>10.425</Total>
+  </row>
+  <row>
+    <Nacionalidad>Total</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>10.951</Total>
+  </row>
+  <row>
+    <Nacionalidad>Total</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>195.943</Total>
+  </row>
+  <row>
+    <Nacionalidad>Total</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>93.561</Total>
+  </row>
+  <row>
+    <Nacionalidad>Total</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>102.383</Total>
+  </row>
+  <row>
+    <Nacionalidad>Total</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>35.026</Total>
+  </row>
+  <row>
+    <Nacionalidad>Total</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>17.296</Total>
+  </row>
+  <row>
+    <Nacionalidad>Total</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>17.730</Total>
+  </row>
+  <row>
+    <Nacionalidad>Española</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>18.912</Total>
+  </row>
+  <row>
+    <Nacionalidad>Española</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>9.065</Total>
+  </row>
+  <row>
+    <Nacionalidad>Española</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>9.847</Total>
+  </row>
+  <row>
+    <Nacionalidad>Española</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>173.932</Total>
+  </row>
+  <row>
+    <Nacionalidad>Española</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>82.340</Total>
+  </row>
+  <row>
+    <Nacionalidad>Española</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>91.593</Total>
+  </row>
+  <row>
+    <Nacionalidad>Española</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>29.800</Total>
+  </row>
+  <row>
+    <Nacionalidad>Española</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>14.431</Total>
+  </row>
+  <row>
+    <Nacionalidad>Española</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>15.369</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>2.464</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>1.359</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>1.104</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>22.011</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>11.221</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>10.790</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>5.226</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>2.865</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>2.361</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país miembro de la UE</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>1.045</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país miembro de la UE</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>577</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país miembro de la UE</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>468</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país miembro de la UE</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>7.432</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país miembro de la UE</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>3.999</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país miembro de la UE</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>3.433</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país miembro de la UE</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>1.101</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país miembro de la UE</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>619</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país miembro de la UE</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>482</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país europeo no miembro de la UE</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>205</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país europeo no miembro de la UE</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>83</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país europeo no miembro de la UE</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>122</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país europeo no miembro de la UE</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>1.424</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país europeo no miembro de la UE</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>563</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país europeo no miembro de la UE</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>861</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país europeo no miembro de la UE</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>130</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país europeo no miembro de la UE</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>52</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país europeo no miembro de la UE</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>77</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de África</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>254</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de África</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>185</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de África</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>69</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de África</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>3.177</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de África</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>2.107</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de África</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>1.070</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de África</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>1.984</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de África</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>1.284</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de África</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>700</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Norte</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>49</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Norte</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>33</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Norte</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>16</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Norte</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>409</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Norte</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>179</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Norte</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>230</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Norte</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>18</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Norte</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>9</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Norte</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>9</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Sur, Central o Caribe</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>822</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Sur, Central o Caribe</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>415</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Sur, Central o Caribe</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>406</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Sur, Central o Caribe</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>8.499</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Sur, Central o Caribe</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>3.795</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Sur, Central o Caribe</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>4.704</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Sur, Central o Caribe</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>1.859</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Sur, Central o Caribe</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>833</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de América del Sur, Central o Caribe</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>1.027</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Asia</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>89</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Asia</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>66</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Asia</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>23</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Asia</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>1.051</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Asia</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>571</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Asia</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>479</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Asia</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>133</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Asia</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>66</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Asia</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>66</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Oceanía y apátridas</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>..</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Oceanía y apátridas</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>..</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Oceanía y apátridas</Nacionalidad>
+    <Municipios>31901 Barañain</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>..</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Oceanía y apátridas</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>19</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Oceanía y apátridas</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>7</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Oceanía y apátridas</Nacionalidad>
+    <Municipios>31201 Pamplona/Iruña</Municipios>
+    <Sexo>Mujeres</Sexo>
+    <Edad>Total</Edad>
+    <Total>13</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Oceanía y apátridas</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Ambos sexos</Sexo>
+    <Edad>Total</Edad>
+    <Total>2</Total>
+  </row>
+  <row>
+    <Nacionalidad>Extranjera, de un país de Oceanía y apátridas</Nacionalidad>
+    <Municipios>31232 Tudela</Municipios>
+    <Sexo>Hombres</Sexo>
+    <Edad>Total</Edad>
+    <Total>2</Total>
+  </row>
+</data>
