@@ -8,7 +8,7 @@ INFO
 ## Autores
 
 - Aitor Zubillaga Soria/azubillagasdam1
-- Italo Ramirez Areyano/iramirezdam1 
+- Italo Ramirez Arellano/iramirezdam1 
 - Julen Baztarrica Puyal/jbaztarricapdam1
 
 ## Tecnologías
@@ -28,4 +28,4 @@ El proyecto consta de 5 gráficos, los cuales representan diferentes estadístic
 
 ## Uso
 
-El proyecto se distribuile en diferentes carpetas para la distribución de cada tipo de archivo. Se usará el programa IntelliJ para trabajar.
+El proyecto se distribuye en diferentes carpetas para la distribución de cada tipo de archivo. Se usará el programa IntelliJ para trabajar.
