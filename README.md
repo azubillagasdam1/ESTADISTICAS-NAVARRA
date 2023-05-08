@@ -8,7 +8,7 @@ INFO
 ## Autores
 
 - Aitor Zubillaga Soria/azubillagasdam1
-- Italo Ramirez Arellano/iramirezdam1 
+- Italo Ramirez Areyano/iramirezdam1 
 - Julen Baztarrica Puyal/jbaztarricapdam1
 
 ## Tecnologías
@@ -23,9 +23,9 @@ El proyecto consta de 5 gráficos, los cuales representan diferentes estadístic
 ## Instalación
 
 - Crear la carpeta en la cual se instalara el proyecto.
-- Colocar "cmd" para abrir la terminal.
+- Colocar "cmd" en la terminal.
 - Colocar git clone https://github.com/azubillagasdam1/ESTADISTICAS-NAVARRA.git
 
 ## Uso
 
-El proyecto se distribuye en diferentes carpetas para la distribución de cada tipo de archivo. Se usará el programa IntelliJ para trabajar.
+El proyecto se distribuile en diferentes carpetas para la distribución de cada tipo de archivo. Se usará el programa IntelliJ para trabajar.
