@@ -1,0 +1,215 @@
+* {
+    box-sizing: border-box;
+    font-family: Tahoma, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+  }
+  
+  /*------------------ Barra de navegacion --------------------*/
+  .div-nav {
+    background-color: rgb(36, 35, 35);
+    height: 80px;
+    width: 100%;
+    position: sticky;
+    z-index: 2;
+    top: 0px;
+  }
+  
+  /* Posicion y tamaño del logo */
+  .logo {
+    height: 50px;
+    width: auto;
+  }
+  
+  .enlace {
+    position: absolute;
+    padding: 15px 50px;
+  }
+  
+  /* Posicion de la lista de opciones */
+  .div-nav ul {
+    float: right;
+    margin-right: 20px;
+  }
+  
+  .div-nav ul li {
+    display: inline-block;
+    line-height: 80px;
+  }
+  
+  /* Formato de las pestañas */
+  .div-nav ul li a {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    padding: 7px 13px;
+    border-radius: 3px;
+  }
+  
+  .div-nav ul li a:hover {
+    background-color: red;
+    color: white;
+  }
+  
+  
+  #login:hover {
+    background-color: red;
+    color: rgb(255, 255, 255);
+  }
+  
+  /* Checkbox del menu hamburguesa */
+  .menu-hmb {
+    height: 25px;
+  }
+  
+  .checkboton {
+    float: right;
+    line-height: 90px;
+    margin-right: 50px;
+    cursor: pointer;
+    display: none;
+  }
+  
+  #checkbox {
+    display: none;
+  }
+  
+  /*--------- Responsive -------------*/
+  /* Formato Tablet */
+  @media (max-width: 950px) {
+  
+    /* Para que el espacio sea menor en tamaño tablet */
+    .enlace {
+      padding-left: 20px;
+    }
+  
+    /* Para que la fuente sea menor en tamaño tablet */
+    .div-nav ul li a {
+      font-size: 16px;
+    }
+  }
+  
+  /* Formato Movil */
+  @media (max-width: 860px) {
+    .checkboton {
+      display: block;
+    }
+  
+    /* Para que el menu no se desplieque automaticamente y su posicionamiento*/
+    .div-nav ul {
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      background-color: rgb(36, 35, 35);
+      top: 80px;
+      left: -100%;
+      text-align: center;
+      z-index: 1;
+    }
+  
+    /* Posicionamiento de las opciones */
+    .div-nav ul li {
+      display: block;
+      margin: 50px 0;
+      line-height: 30px;
+    }
+  
+    /* Tamaño de fuente de las opciones */
+    .div-nav ul li a {
+      font-size: 20px;
+    }
+  
+    /* Hover para que se coloree de rojo cuando pases el cursor */
+    li a:hover {
+      color: red;
+    }
+  
+    /* Cuando el checkbox este pulsado, abrir el menu */
+    #checkbox:checked~.div-nav-text ul {
+      left: 0;
+    }
+  }
+  
+  /* -------------------- Segunda seccion -----------------------*/
+  h1{
+    text-align: center;
+  }
+  
+  .box-mini-div2 {
+    background-image: url(esperanzaVida.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 600px;
+    background-color: rgb(36, 35, 35);
+    width: 100%;
+  }
+  
+  /* Div que contiene el texto y el link*/
+  .mini-div2 {
+    width: 25%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: white;
+    border-color: rgb(238, 233, 233);
+    padding: 20px;
+  }
+  
+  /* Div del link*/
+  .link-mas2 {
+  color: white;
+  background-color: red;
+  margin-top: 20px;
+  border-radius: 3px;
+  }
+  
+  /* Texto del div del link*/
+  .link-mas2 p{
+    text-align: center;
+    padding: 6px;
+  }
+  
+  /*----------- Responsive -------------*/
+  /* Formato Tablet y Movil */
+  @media (max-width: 950px) {
+    .mini-div2 {
+      width: 85%;
+    }
+  }
+  
+  
+  
+  
+  
+  /* -------------------- About Us -----------------------*/
+  .contenedor-aboutUs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 450px;
+    width: 100%;
+    background-color: rgb(36, 35, 35);
+    text-align: center;
+    align-items: center;
+    padding: 50px;
+  }
+  
+  /* Div del texto y logo*/
+  .texto-aboutUs {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .texto-aboutUs img {
+    width: 70px;
+    height: auto;
+  }
