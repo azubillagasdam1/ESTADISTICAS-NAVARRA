@@ -8,7 +8,7 @@ INFO
 ## Autores
 
 - Aitor Zubillaga Soria/azubillagasdam1
-- Italo Ramirez Areyano/iramirezdam1 
+- Italo Ramirez Arellano/iramirezdam1 
 - Julen Baztarrica Puyal/jbaztarricapdam1
 
 ## Tecnologías
