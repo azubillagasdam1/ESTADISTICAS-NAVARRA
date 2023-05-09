@@ -6,6 +6,11 @@
     text-decoration: none;
   }
   
+  html {
+    scroll-behavior: smooth;
+  }
+  
+
   /*------------------ Barra de navegacion --------------------*/
   .div-nav {
     background-color: rgb(36, 35, 35);
@@ -136,7 +141,8 @@
   }
   
   .box-mini-div2 {
-    background-image: url(esperanzaVida.jpg);
+    background-image: url(imgBackground/esperanzaVida.jpg);
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     display: flex;

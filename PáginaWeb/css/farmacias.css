@@ -5,6 +5,11 @@
     padding: 0;
     text-decoration: none;
   }
+
+  html {
+    scroll-behavior: smooth;
+  }
+  
   
   /*------------------ Barra de navegacion --------------------*/
   .div-nav {
@@ -136,7 +141,8 @@
   }
   
   .box-mini-div2 {
-    background-image: url(poblacionIIndex.png);
+    background-image: url(imgBackground/farmacias.jpg);
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     display: flex;
