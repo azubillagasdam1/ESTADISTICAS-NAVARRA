@@ -10,7 +10,7 @@
             <xsl:variable name="GEORR_X" select="GEORR_X"/>
             <xsl:variable name="GEORR_Y" select="GEORR_Y"/>
 
-            <circle r="10" cx="{$GEORR_X * 48760.30169 - 2086758.018}" cy="{$GEORR_Y * -1789.0235015592066094069 - 2900}" fill="red"/>
+            <circle r="10" cx="{$GEORR_X * 48760.30169 - 2086758.018}" cy="{ -2590.352 - $GEORR_Y * 1789.023502}" fill="red"/>
 
             </xsl:for-each>
             <circle r="10" cx="480" cy="415" fill="red"/>
@@ -52,7 +52,7 @@
     415 = vy - -1.679884302112502 * ay
     350 = vy - -1.6435516323944408 * ay
 
-    vy = ???  ay = ???
+    vy =  -2590.352  ay =  -1789.024
 
     cy = vy - gy * ay
 

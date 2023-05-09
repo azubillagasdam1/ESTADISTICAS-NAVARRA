@@ -12,17 +12,17 @@
                 </pattern>
             </defs>
 
-            <!-- Coloca la barra vertical -->
-            <rect width="100%" height="100%" fill="url(#grid)"/>
-            <svg width="1000" height="1000">
-                <line x1="200" y1="0" x2="200" y2="900" stroke="black" stroke-width="2"/>
-            </svg>
-
-
             <xsl:variable name="BaranainTotales" select="data/row[Nacionalidad='Total'][Municipios='Barañain']/Total/text()"/>
             <xsl:variable name="PamplonaTotales" select="data/row[Nacionalidad='Total'][Municipios='Pamplona/Iruña']/Total/text()"/>
             <xsl:variable name="TudelaTotales" select="data/row[Nacionalidad='Total'][Municipios='Tudela']/Total/text()"/>
             <xsl:variable name="Navarros" select="$BaranainTotales+$PamplonaTotales+$TudelaTotales"/>
+
+            <!-- Coloca la barra vertical y el fondo tipo cuaderno-->
+            <rect width="100%" height="100%" fill="url(#grid)"/>
+            <line x1="200" y1="0" x2="200" y2="900" stroke="black" stroke-width="2"/>
+
+            <!-- Crea la barra horizontal de la base -->
+            <line x1="0" y1="900" x2="1600" y2="900" stroke="black" stroke-width="5"/>
 
             <!-- Inicializamos las variables -->
             <xsl:for-each select="data/row">
@@ -69,7 +69,7 @@
                         <xsl:when test="$Nacionalidad = 'Extranjera, de un país miembro de la UE'">blue</xsl:when>
                         <xsl:when test="$Nacionalidad = 'Extranjera, de un país europeo no miembro de la UE'">grey
                         </xsl:when>
-                        <xsl:when test="$Nacionalidad = 'Extranjera, de un país de África'">brown</xsl:when>
+                        <xsl:when test="$Nacionalidad = 'Extranjera, de un país de África'">red</xsl:when>
                         <xsl:when test="$Nacionalidad = 'Extranjera, de un país de América del Norte'">orange</xsl:when>
                         <xsl:when test="$Nacionalidad = 'Extranjera, de un país de América del Sur, Central o Caribe'">
                             green
@@ -156,9 +156,9 @@
                     <stop offset="0%" stop-color="#999999"/>
                     <stop offset="100%" stop-color="#666666"/>
                 </linearGradient>
-                <linearGradient id="brown">
-                    <stop offset="0%" stop-color="#a55f3e"/>
-                    <stop offset="100%" stop-color="#723d23"/>
+                <linearGradient id="red">
+                    <stop offset="0%" stop-color="#ff0000"/>
+                    <stop offset="100%" stop-color="#990000"/>
                 </linearGradient>
                 <linearGradient id="orange">
                     <stop offset="0%" stop-color="#ff8800"/>
@@ -192,16 +192,16 @@
             <text x="240" y="25" font-size="14">Extranjeros de la UE</text>
             <rect x="210" y="40" width="20" height="20" fill="url(#grey)"/>
             <text x="240" y="55" font-size="14">Extranjeros fuera de la UE</text>
-            <rect x="210" y="70" width="20" height="20" fill="url(#brown)"/>
+            <rect x="210" y="70" width="20" height="20" fill="url(#red)"/>
             <text x="240" y="85" font-size="14">Africanos</text>
             <rect x="210" y="100" width="20" height="20" fill="url(#orange)"/>
             <text x="240" y="115" font-size="14">Norteamericanos</text>
             <rect x="210" y="130" width="20" height="20" fill="url(#green)"/>
             <text x="240" y="145" font-size="14">Sudamericanos</text>
             <rect x="210" y="160" width="20" height="20" fill="url(#yellow)"/>
-            <text x="240" y="175" font-size="14">Chinos</text>
+            <text x="240" y="175" font-size="14">Asiaticos</text>
             <rect x="210" y="190" width="20" height="20" fill="url(#pink)"/>
-            <text x="240" y="205" font-size="14">Oceania</text>
+            <text x="240" y="205" font-size="14">Oceánicos</text>
 
             <rect x="210" y="250" width="30" height="30" fill="url(#red)"/>
             <text x="250" y="270" font-size="18">NAVARROS TOTALES:  <xsl:value-of select="$Navarros"/></text>
@@ -213,6 +213,12 @@
             <rect x="210" y="380" width="30" height="30" fill="url(#purple)"/>
             <text x="250" y="400" font-size="18">TUDELANOS: <xsl:value-of select="$TudelaTotales"/></text>
 
+            <rect x="210" y="460" width="30" height="5" fill="url(#pink)"/>
+            <text x="250" y="466" font-size="14">Mujeres</text>
+
+            <rect x="210" y="490" width="30" height="5" fill="url(#blue)"/>
+            <text x="250" y="496" font-size="14">Hombres</text>
+
             <!-- Numeros de la izquierda -->
             <xsl:for-each select="data/row">
                 <text x="100" y="{900-position()*20}" font-size="20" font-weight="bold">
@@ -220,6 +226,23 @@
                 </text>
 
             </xsl:for-each>
+
+
+
+        </svg>
+        <!-- Texto -->
+        <svg width="1600" height="100">
+
+            <text x="{450}" y="{30}" font-size="30" font-weight="bold">
+                BARAÑAIN
+            </text>
+            <text x="{875}" y="{30}" font-size="30" font-weight="bold">
+                PAMPLONA
+            </text>
+            <text x="{1350}" y="{30}" font-size="30" font-weight="bold">
+                TUDELA
+            </text>
+
         </svg>
     </xsl:template>
 </xsl:stylesheet>
