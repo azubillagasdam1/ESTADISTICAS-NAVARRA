@@ -140,6 +140,11 @@ h1{
   text-align: center;
 }
 
+p{
+  text-align: center;
+}
+
+
 .box-mini-div2 {
   background-image: url(imgBackground/poblacionIIndex.png);
   background-position: center;
@@ -287,4 +292,12 @@ border-radius: 3px;
 .texto-aboutUs img {
   width: 70px;
   height: auto;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
 }
