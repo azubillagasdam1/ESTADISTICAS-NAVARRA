@@ -15,6 +15,9 @@ INFO
 
 - IntelliJ 
 - GitHub
+- CSS
+- HTML
+- XSLT
 
 ## Funcionalidades
 
