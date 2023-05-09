@@ -21,7 +21,7 @@ INFO
 
 ## Funcionalidades
 
-El proyecto consta de 5 gráficos, los cuales representan diferentes estadísticas de asuntos relacionados con Navarra
+El proyecto consta de una página web en la que hay 5 gráficos, los cuales representan diferentes estadísticas de asuntos relacionados con la poblacion de Navarra
 
 ## Instalación
 
