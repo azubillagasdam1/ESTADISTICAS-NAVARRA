@@ -1110,4 +1110,741 @@
         <Nombre_Centro>Amilivia Alvarez, Ines</Nombre_Centro>
         <Estado_Centro>Centro Autorizado</Estado_Centro>
     </row>
+    <row _id="179">
+        <GEORR_X>42.755988034983325</GEORR_X>
+        <GEORR_Y>-1.7405160031129059</GEORR_Y>
+        <Zona_Sanitaria>Cizur</Zona_Sanitaria>
+        <Localidad>Zizur Mayor/Zizur Nagusia</Localidad>
+        <Domicilio>calle Erreniega 22</Domicilio>
+        <Codigo_Postal>31180</Codigo_Postal>
+        <Codigo_Centro>F00233</Codigo_Centro>
+        <Nombre_Centro>Albeniz Gale, Iker Eduardo</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="234">
+        <GEORR_X>42.784822997234826</GEORR_X>
+        <GEORR_Y>-1.6900017039412376</GEORR_Y>
+        <Zona_Sanitaria>Cizur</Zona_Sanitaria>
+        <Localidad>Zizur Mayor/Zizur Nagusia</Localidad>
+        <Domicilio>parque Erreniega 66</Domicilio>
+        <Codigo_Postal>31180</Codigo_Postal>
+        <Codigo_Centro>F00305</Codigo_Centro>
+        <Nombre_Centro>Carmona Viniegra, Alejandro</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="255">
+        <GEORR_X>42.78347709111454</GEORR_X>
+        <GEORR_Y>-1.6883357271020474</GEORR_Y>
+        <Zona_Sanitaria>Cizur</Zona_Sanitaria>
+        <Localidad>Zizur Mayor/Zizur Nagusia</Localidad>
+        <Domicilio>calle Parque de los Olmos 8</Domicilio>
+        <Codigo_Postal>31180</Codigo_Postal>
+        <Codigo_Centro>F00337</Codigo_Centro>
+        <Nombre_Centro>Catala Navarro, Monica</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="256">
+        <GEORR_X>42.78788936429817</GEORR_X>
+        <GEORR_Y>-1.6930869632599868</GEORR_Y>
+        <Zona_Sanitaria>Cizur</Zona_Sanitaria>
+        <Localidad>Zizur Mayor/Zizur Nagusia</Localidad>
+        <Domicilio>calle Zabalgaina 4</Domicilio>
+        <Codigo_Postal>31180</Codigo_Postal>
+        <Codigo_Centro>F00340</Codigo_Centro>
+        <Nombre_Centro>Arzoz Lezaun, Maria Josefa</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="282">
+        <GEORR_X>42.78802653204575</GEORR_X>
+        <GEORR_Y>-1.688818797998591</GEORR_Y>
+        <Zona_Sanitaria>Cizur</Zona_Sanitaria>
+        <Localidad>Zizur Mayor/Zizur Nagusia</Localidad>
+        <Domicilio>calle Santa Cruz 41</Domicilio>
+        <Codigo_Postal>31180</Codigo_Postal>
+        <Codigo_Centro>F00372</Codigo_Centro>
+        <Nombre_Centro>Murillo Martin, Mª Isabel</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="321">
+        <GEORR_X>42.78818377546959</GEORR_X>
+        <GEORR_Y>-1.688564964240306</GEORR_Y>
+        <Zona_Sanitaria>Cizur</Zona_Sanitaria>
+        <Localidad>Zizur Mayor/Zizur Nagusia</Localidad>
+        <Domicilio>calle Santa Cruz 5</Domicilio>
+        <Codigo_Postal>31180</Codigo_Postal>
+        <Codigo_Centro>F00413</Codigo_Centro>
+        <Nombre_Centro>Elizari/Hernandez Artigas/Artigas Ana Isabel/Susana</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="334">
+        <GEORR_X>42.79321736546577</GEORR_X>
+        <GEORR_Y>-1.6950626214557585</GEORR_Y>
+        <Zona_Sanitaria>Cizur</Zona_Sanitaria>
+        <Localidad>Zizur Mayor/Zizur Nagusia</Localidad>
+        <Domicilio>plaza de los Fueros de Navarra 4</Domicilio>
+        <Codigo_Postal>31180</Codigo_Postal>
+        <Codigo_Centro>F00429</Codigo_Centro>
+        <Nombre_Centro>Barcos Diaz, Raquel</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="554">
+        <GEORR_X>42.78998222134846</GEORR_X>
+        <GEORR_Y>-1.7006387284484938</GEORR_Y>
+        <Zona_Sanitaria>Cizur</Zona_Sanitaria>
+        <Localidad>Zizur Mayor/Zizur Nagusia</Localidad>
+        <Domicilio>calle Mindegui 1</Domicilio>
+        <Codigo_Postal>31180</Codigo_Postal>
+        <Codigo_Centro>F00729</Codigo_Centro>
+        <Nombre_Centro>Sanz Garcia, Emilia</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="583">
+        <GEORR_X>42.794560709622054</GEORR_X>
+        <GEORR_Y>-1.7017352819755516</GEORR_Y>
+        <Zona_Sanitaria>Cizur</Zona_Sanitaria>
+        <Localidad>Zizur Mayor/Zizur Nagusia</Localidad>
+        <Domicilio>calle Errotaxar 17</Domicilio>
+        <Codigo_Postal>31180</Codigo_Postal>
+        <Codigo_Centro>F00805</Codigo_Centro>
+        <Nombre_Centro>Viedma Ansa, Nerea</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="595">
+        <GEORR_X>42.789337001330274, </GEORR_X>
+        <GEORR_Y>-1.6980032251276969</GEORR_Y>
+        <Zona_Sanitaria>Cizur</Zona_Sanitaria>
+        <Localidad>Zizur Mayor/Zizur Nagusia</Localidad>
+        <Domicilio>plaza De La Mujer 7</Domicilio>
+        <Codigo_Postal>31180</Codigo_Postal>
+        <Codigo_Centro>F00830</Codigo_Centro>
+        <Nombre_Centro>Paredes Puente, Ana Maria</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="298">
+        <GEORR_X>42.59567055549586</GEORR_X>
+        <GEORR_Y>-2.0255265382002925</GEORR_Y>
+        <Zona_Sanitaria>Aranguren</Zona_Sanitaria>
+        <Localidad>Mutilva / Mutiloa</Localidad>
+        <Domicilio>calle Ezquibel 11</Domicilio>
+        <Codigo_Postal>31192</Codigo_Postal>
+        <Codigo_Centro>F00389</Codigo_Centro>
+        <Nombre_Centro>Ugarte Gonzalez, Begoña</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="487">
+        <GEORR_X>42.851087338253336</GEORR_X>
+        <GEORR_Y>-1.6195366100321789</GEORR_Y>
+        <Zona_Sanitaria>Aranguren</Zona_Sanitaria>
+        <Localidad>Mutilva / Mutiloa</Localidad>
+        <Domicilio>calle Mayor 2</Domicilio>
+        <Codigo_Postal>31192</Codigo_Postal>
+        <Codigo_Centro>F00607</Codigo_Centro>
+        <Nombre_Centro>Alzueta Pellicer, Maria</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="557">
+        <GEORR_X>42.798283191197555</GEORR_X>
+        <GEORR_Y>-1.6142361982579347</GEORR_Y>
+        <Zona_Sanitaria>Aranguren</Zona_Sanitaria>
+        <Localidad>Mutilva / Mutiloa</Localidad>
+        <Domicilio>calle Santxiki 130</Domicilio>
+        <Codigo_Postal>31192</Codigo_Postal>
+        <Codigo_Centro>F00737</Codigo_Centro>
+        <Nombre_Centro>Leone Puncel, Alfonso</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="566">
+        <GEORR_X>42.79366119156354</GEORR_X>
+        <GEORR_Y>-1.6158304688157747</GEORR_Y>
+        <Zona_Sanitaria>Aranguren</Zona_Sanitaria>
+        <Localidad>Mutilva / Mutiloa</Localidad>
+        <Domicilio>avenida Anaitasuna 11</Domicilio>
+        <Codigo_Postal>31192</Codigo_Postal>
+        <Codigo_Centro>F00758</Codigo_Centro>
+        <Nombre_Centro>Rodriguez Muñoz, Alicia</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="588">
+        <GEORR_X>42.804896026038925</GEORR_X>
+        <GEORR_Y>-1.617263439155492</GEORR_Y>
+        <Zona_Sanitaria>Aranguren</Zona_Sanitaria>
+        <Localidad>Mutilva / Mutiloa</Localidad>
+        <Domicilio>avenida Mugartea 19</Domicilio>
+        <Codigo_Postal>31192</Codigo_Postal>
+        <Codigo_Centro>F00816</Codigo_Centro>
+        <Nombre_Centro>De Ariz Lizarraga, Miguel</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="596">
+        <GEORR_X>42.79647021260061</GEORR_X>
+        <GEORR_Y>-1.6203714725392013</GEORR_Y>
+        <Zona_Sanitaria>Aranguren</Zona_Sanitaria>
+        <Localidad>Mutilva / Mutiloa</Localidad>
+        <Domicilio>plaza Valle de Aranguren 15,bajo C</Domicilio>
+        <Codigo_Postal>31192</Codigo_Postal>
+        <Codigo_Centro>F00831</Codigo_Centro>
+        <Nombre_Centro>Lozano Bernal, Javier Jose</Nombre_Centro>
+        <Estado_Centro>Autorización en Trámite</Estado_Centro>
+    </row>
+    <row _id="240">
+        <GEORR_X>42.78443277421693</GEORR_X>
+        <GEORR_Y>-1.6315052648388686</GEORR_Y>
+        <Zona_Sanitaria>Noain</Zona_Sanitaria>
+        <Localidad>Cordovilla</Localidad>
+        <Domicilio>barrio La Morea s/n. Centro Comercial La Morea</Domicilio>
+        <Codigo_Postal>31191</Codigo_Postal>
+        <Codigo_Centro>F00311</Codigo_Centro>
+        <Nombre_Centro>Aranguren Letamendia, Emilia</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="249">
+        <GEORR_X>42.82631844161577</GEORR_X>
+        <GEORR_Y>-1.6473523514547523</GEORR_Y>
+        <Zona_Sanitaria>Rochapea</Zona_Sanitaria>
+        <Localidad>Pamplona/Iruña</Localidad>
+        <Domicilio>calle Cruz de Barkazio 7</Domicilio>
+        <Codigo_Postal>31014</Codigo_Postal>
+        <Codigo_Centro>F00326</Codigo_Centro>
+        <Nombre_Centro>Armendariz Gonzalez, Maria del Mar</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="361">
+        <GEORR_X>42.82688930733837</GEORR_X>
+        <GEORR_Y>-1.6568062072531125</GEORR_Y>
+        <Zona_Sanitaria>Rochapea</Zona_Sanitaria>
+        <Localidad>Pamplona/Iruña</Localidad>
+        <Domicilio>calle Pedro de Ursúa 4</Domicilio>
+        <Codigo_Postal>31014</Codigo_Postal>
+        <Codigo_Centro>F00460</Codigo_Centro>
+        <Nombre_Centro>Recalde Irañeta, Rebeca</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="362">
+        <GEORR_X>42.824451386882416</GEORR_X>
+        <GEORR_Y>-1.654085487769014</GEORR_Y>
+        <Zona_Sanitaria>Rochapea</Zona_Sanitaria>
+        <Localidad>Pamplona/Iruña</Localidad>
+        <Domicilio>calle Joaquín Beúnza 39</Domicilio>
+        <Codigo_Postal>31014</Codigo_Postal>
+        <Codigo_Centro>F00461</Codigo_Centro>
+        <Nombre_Centro>Garralda/Fernandez de Aguirre Montaño/Martinez, Maria Jose/Blanca</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="365">
+        <GEORR_X>42.82223214543433</GEORR_X>
+        <GEORR_Y>-1.65123056908881</GEORR_Y>
+        <Zona_Sanitaria>Rochapea</Zona_Sanitaria>
+        <Localidad>Pamplona/Iruña</Localidad>
+        <Domicilio>calle Ezcaroz 2</Domicilio>
+        <Codigo_Postal>31014</Codigo_Postal>
+        <Codigo_Centro>F00464</Codigo_Centro>
+        <Nombre_Centro>Munarriz Barcos, Leonor</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="366">
+        <GEORR_X>42.825131871558995</GEORR_X>
+        <GEORR_Y>-1.6465746100221386</GEORR_Y>
+        <Zona_Sanitaria>Rochapea</Zona_Sanitaria>
+        <Localidad>Pamplona/Iruña</Localidad>
+        <Domicilio>paseo Enamorados 45</Domicilio>
+        <Codigo_Postal>31014</Codigo_Postal>
+        <Codigo_Centro>F00465</Codigo_Centro>
+        <Nombre_Centro>Belzunce Saldise, Alicia</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="376">
+        <GEORR_X>42.8265172162064</GEORR_X>
+        <GEORR_Y>-1.6506013196804787</GEORR_Y>
+        <Zona_Sanitaria>Rochapea</Zona_Sanitaria>
+        <Localidad>Pamplona/Iruña</Localidad>
+        <Domicilio>calle Raimundo Lanas 12 trasera</Domicilio>
+        <Codigo_Postal>31014</Codigo_Postal>
+        <Codigo_Centro>F00477</Codigo_Centro>
+        <Nombre_Centro>Santesteban Jimenez, Maite</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="384">
+        <GEORR_X>42.82911954060579</GEORR_X>
+        <GEORR_Y>-1.6540077649896692</GEORR_Y>
+        <Zona_Sanitaria>Rochapea</Zona_Sanitaria>
+        <Localidad>Pamplona/Iruña</Localidad>
+        <Domicilio>calle Bernardino Tirapu 54</Domicilio>
+        <Codigo_Postal>31014</Codigo_Postal>
+        <Codigo_Centro>F00485</Codigo_Centro>
+        <Nombre_Centro>Casanova/Ruiz Lopez/Orte, Maria Auxiliadora /Maria Isabel</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="397">
+        <GEORR_X>42.830268168518174</GEORR_X>
+        <GEORR_Y>-1.6445353376734946</GEORR_Y>
+        <Zona_Sanitaria>Rochapea</Zona_Sanitaria>
+        <Localidad>Pamplona/Iruña</Localidad>
+        <Domicilio>calle Ansoáin 4</Domicilio>
+        <Codigo_Postal>31013</Codigo_Postal>
+        <Codigo_Centro>F00500</Codigo_Centro>
+        <Nombre_Centro>Sahuquillo Arratibel, Marta</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="445">
+        <GEORR_X>42.82809907853726</GEORR_X>
+        <GEORR_Y>-1.651653575758434</GEORR_Y>
+        <Zona_Sanitaria>Rochapea</Zona_Sanitaria>
+        <Localidad>Pamplona/Iruña</Localidad>
+        <Domicilio>calle Cendeas 2</Domicilio>
+        <Codigo_Postal>31014</Codigo_Postal>
+        <Codigo_Centro>F00551</Codigo_Centro>
+        <Nombre_Centro>Navarro Blasco, Julian</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="454">
+        <GEORR_X>42.81099513563048</GEORR_X>
+        <GEORR_Y>-1.6438588832207992</GEORR_Y>
+        <Zona_Sanitaria>Berriozar</Zona_Sanitaria>
+        <Localidad>Erice</Localidad>
+        <Domicilio>calle Plazaola 2</Domicilio>
+        <Codigo_Postal>31892</Codigo_Postal>
+        <Codigo_Centro>F00561</Codigo_Centro>
+        <Nombre_Centro>Miramon Muñoz, Marta</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="509">
+        <GEORR_X>42.83675024158527</GEORR_X>
+        <GEORR_Y>-1.670407804528123</GEORR_Y>
+        <Zona_Sanitaria>Berriozar</Zona_Sanitaria>
+        <Localidad>Berriozar</Localidad>
+        <Domicilio>calle Ardantzeta 1</Domicilio>
+        <Codigo_Postal>31013</Codigo_Postal>
+        <Codigo_Centro>F00641</Codigo_Centro>
+        <Nombre_Centro>Bautista Fernandez, Ana Maria</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="563">
+        <GEORR_X>42.86024254777466</GEORR_X>
+        <GEORR_Y>-1.6875459391246395</GEORR_Y>
+        <Zona_Sanitaria>Berriozar</Zona_Sanitaria>
+        <Localidad>Berriosuso</Localidad>
+        <Domicilio>calle Santa Eulalia 31,bajo</Domicilio>
+        <Codigo_Postal>31195</Codigo_Postal>
+        <Codigo_Centro>F00750</Codigo_Centro>
+        <Nombre_Centro>Valle Luna, Montserrat</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="136">
+        <GEORR_X>42.83551612249702</GEORR_X>
+        <GEORR_Y>-1.6750361109546905</GEORR_Y>
+        <Zona_Sanitaria>Berriozar</Zona_Sanitaria>
+        <Localidad>Berriozar</Localidad>
+        <Domicilio>calle Kaleberri 16</Domicilio>
+        <Codigo_Postal>31013</Codigo_Postal>
+        <Codigo_Centro>F00187</Codigo_Centro>
+        <Nombre_Centro>Diaz Garcia, Juan Miguel</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="215">
+        <GEORR_X>42.834694238698845</GEORR_X>
+        <GEORR_Y>-1.672035792303948</GEORR_Y>
+        <Zona_Sanitaria>Berriozar</Zona_Sanitaria>
+        <Localidad>Berriozar</Localidad>
+        <Domicilio>calle Etxaburua 10</Domicilio>
+        <Codigo_Postal>31013</Codigo_Postal>
+        <Codigo_Centro>F00276</Codigo_Centro>
+        <Nombre_Centro>Ongay Cordon, Javier</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="237">
+        <GEORR_X>42.8230147558335</GEORR_X>
+        <GEORR_Y>-1.7044485924660167</GEORR_Y>
+        <Zona_Sanitaria>Berriozar</Zona_Sanitaria>
+        <Localidad>Marcaláin</Localidad>
+        <Domicilio>calle San Miguel 3</Domicilio>
+        <Codigo_Postal>31193</Codigo_Postal>
+        <Codigo_Centro>F00308</Codigo_Centro>
+        <Nombre_Centro>Ciordia Borunda, Cristina</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="159">
+        <GEORR_X>42.831413688713646</GEORR_X>
+        <GEORR_Y>-1.636288317094959</GEORR_Y>
+        <Zona_Sanitaria>Chantrea</Zona_Sanitaria>
+        <Localidad>Pamplona/Iruña</Localidad>
+        <Domicilio>avenida Villava 47</Domicilio>
+        <Codigo_Postal>31015</Codigo_Postal>
+        <Codigo_Centro>F00213</Codigo_Centro>
+        <Nombre_Centro>Ruiz-Capillas Martinez, Elisa Maria</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="174">
+        <GEORR_X>42.83275510486778</GEORR_X>
+        <GEORR_Y>-1.6083563733625406</GEORR_Y>
+        <Zona_Sanitaria>Villava/Atarrabia</Zona_Sanitaria>
+        <Localidad>Villava/Atarrabia</Localidad>
+        <Domicilio>plaza Miguel Induráin 6</Domicilio>
+        <Codigo_Postal>31610</Codigo_Postal>
+        <Codigo_Centro>F00228</Codigo_Centro>
+        <Nombre_Centro>Menendez/Menendez Perez/Perez, Alberto/Miguel</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="195">
+        <GEORR_X>42.84271188985421</GEORR_X>
+        <GEORR_Y>-1.6104530943263606</GEORR_Y>
+        <Zona_Sanitaria>Villava/Atarrabia</Zona_Sanitaria>
+        <Localidad>Arre</Localidad>
+        <Domicilio>calle Trinidad 17</Domicilio>
+        <Codigo_Postal>31194</Codigo_Postal>
+        <Codigo_Centro>F00250</Codigo_Centro>
+        <Nombre_Centro>Cobos Lucea, Laura</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="262">
+        <GEORR_X>42.83303297219172</GEORR_X>
+        <GEORR_Y>-1.6123565569906941</GEORR_Y>
+        <Zona_Sanitaria>Villava/Atarrabia</Zona_Sanitaria>
+        <Localidad>Villava/Atarrabia</Localidad>
+        <Domicilio>plaza Sancho VI el Sabio 4</Domicilio>
+        <Codigo_Postal>31610</Codigo_Postal>
+        <Codigo_Centro>F00351</Codigo_Centro>
+        <Nombre_Centro>Redondo Iriso, Blanca</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="383">
+        <GEORR_X>42.83081380484587</GEORR_X>
+        <GEORR_Y>-1.6114761543996925</GEORR_Y>
+        <Zona_Sanitaria>Villava/Atarrabia</Zona_Sanitaria>
+        <Localidad>Villava/Atarrabia</Localidad>
+        <Domicilio>calle Bidaburua 6</Domicilio>
+        <Codigo_Postal>31610</Codigo_Postal>
+        <Codigo_Centro>F00484</Codigo_Centro>
+        <Nombre_Centro>Gonzalez Laborie, Maria Teresa</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="453">
+        <GEORR_X>42.79339111130672</GEORR_X>
+        <GEORR_Y>-1.6925613033798432</GEORR_Y>
+        <Zona_Sanitaria>Villava/Atarrabia</Zona_Sanitaria>
+        <Localidad>Villava/Atarrabia</Localidad>
+        <Domicilio>calle San Andrés 4</Domicilio>
+        <Codigo_Postal>31610</Codigo_Postal>
+        <Codigo_Centro>F00560</Codigo_Centro>
+        <Nombre_Centro>Serrano Sarasa, Susana</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="474">
+        <GEORR_X>42.83350019013593</GEORR_X>
+        <GEORR_Y>-1.610558526491439</GEORR_Y>
+        <Zona_Sanitaria>Villava/Atarrabia</Zona_Sanitaria>
+        <Localidad>Villava/Atarrabia</Localidad>
+        <Domicilio>calle Agustín García 16</Domicilio>
+        <Codigo_Postal>31610</Codigo_Postal>
+        <Codigo_Centro>F00583</Codigo_Centro>
+        <Nombre_Centro>Del Valle Ledesma, Alvaro</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="21">
+        <GEORR_X>42.77464169428037</GEORR_X>
+        <GEORR_Y>-1.6555615783962794</GEORR_Y>
+        <Zona_Sanitaria>Villava/Atarrabia</Zona_Sanitaria>
+        <Localidad>Villava/Atarrabia</Localidad>
+        <Domicilio>calle Mayor 9</Domicilio>
+        <Codigo_Postal>31610</Codigo_Postal>
+        <Codigo_Centro>F00025</Codigo_Centro>
+        <Nombre_Centro>Erro Azcarate, Maria Arantzazu</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="200">
+        <GEORR_X>42.8243016657294</GEORR_X>
+        <GEORR_Y>-1.6553659536000018</GEORR_Y>
+        <Zona_Sanitaria>Huarte</Zona_Sanitaria>
+        <Localidad>Zubiri</Localidad>
+        <Domicilio>calle Río Arga 33-35</Domicilio>
+        <Codigo_Postal>31630</Codigo_Postal>
+        <Codigo_Centro>F00255</Codigo_Centro>
+        <Nombre_Centro>Liso Aldaz, Maria Jose</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="290">
+        <GEORR_X>42.81086859894248</GEORR_X>
+        <GEORR_Y>-1.618662332459216</GEORR_Y>
+        <Zona_Sanitaria>Huarte</Zona_Sanitaria>
+        <Localidad>Gorráiz</Localidad>
+        <Domicilio>plaza del Palacio 8</Domicilio>
+        <Codigo_Postal>31620</Codigo_Postal>
+        <Codigo_Centro>F00381</Codigo_Centro>
+        <Nombre_Centro>Iraizoz Irigoyen, Ana Maria</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="336">
+        <GEORR_X>42.831738686418085</GEORR_X>
+        <GEORR_Y>-1.5893408185906601</GEORR_Y>
+        <Zona_Sanitaria>Huarte</Zona_Sanitaria>
+        <Localidad>Huarte/Uharte</Localidad>
+        <Domicilio>calle Zubiarte 26</Domicilio>
+        <Codigo_Postal>31620</Codigo_Postal>
+        <Codigo_Centro>F00432</Codigo_Centro>
+        <Nombre_Centro>Blanco Ruiz, Ildelina</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="391">
+        <GEORR_X>42.831162666737185</GEORR_X>
+        <GEORR_Y>-1.5920923182727216</GEORR_Y>
+        <Zona_Sanitaria>Huarte</Zona_Sanitaria>
+        <Localidad>Huarte/Uharte</Localidad>
+        <Domicilio>calle Pérez Goyena 1</Domicilio>
+        <Codigo_Postal>31620</Codigo_Postal>
+        <Codigo_Centro>F00494</Codigo_Centro>
+        <Nombre_Centro>Alvarez Guembe, Daniel</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="457">
+        <GEORR_X>42.831189140364245</GEORR_X>
+        <GEORR_Y>-1.592056803244021</GEORR_Y>
+        <Zona_Sanitaria>Huarte</Zona_Sanitaria>
+        <Localidad>Gorráiz</Localidad>
+        <Domicilio>camino de Ardanaz 2,(Centro Comercial Gorraiz)</Domicilio>
+        <Codigo_Postal>31620</Codigo_Postal>
+        <Codigo_Centro>F00564</Codigo_Centro>
+        <Nombre_Centro>Alforja/Alforja Castiella/Castiella, Maria Isabel/Maria Cristina</Nombre_Centro>
+        <Estado_Centro>Cierre temporal</Estado_Centro>
+    </row>
+    <row _id="484">
+        <GEORR_X>42.82894021524774</GEORR_X>
+        <GEORR_Y>-1.592741278454397</GEORR_Y>
+        <Zona_Sanitaria>Huarte</Zona_Sanitaria>
+        <Localidad>Huarte/Uharte</Localidad>
+        <Domicilio>calle Leandro Azcárate 7</Domicilio>
+        <Codigo_Postal>31620</Codigo_Postal>
+        <Codigo_Centro>F00600</Codigo_Centro>
+        <Nombre_Centro>Ilundain Erice, Esperanza</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="490">
+        <GEORR_X>42.82883951734238</GEORR_X>
+        <GEORR_Y>-1.5841657513346519</GEORR_Y>
+        <Zona_Sanitaria>Huarte</Zona_Sanitaria>
+        <Localidad>Huarte/Uharte</Localidad>
+        <Domicilio>calle Intxaurdia, 5. Centro Comercial Itaroa</Domicilio>
+        <Codigo_Postal>31620</Codigo_Postal>
+        <Codigo_Centro>F00611</Codigo_Centro>
+        <Nombre_Centro>Vallejos Huesa, Maria Josefa</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="565">
+        <GEORR_X>42.83127819616089</GEORR_X>
+        <GEORR_Y>-1.593640311227361</GEORR_Y>
+        <Zona_Sanitaria>Huarte</Zona_Sanitaria>
+        <Localidad>Huarte/Uharte</Localidad>
+        <Domicilio>calle Zubiarte 1</Domicilio>
+        <Codigo_Postal>31620</Codigo_Postal>
+        <Codigo_Centro>F00756</Codigo_Centro>
+        <Nombre_Centro>Acosta Casado, Mª Dolores</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="307">
+        <GEORR_X>42.75880419301785</GEORR_X>
+        <GEORR_Y>-1.633603420201091</GEORR_Y>
+        <Zona_Sanitaria>Noain</Zona_Sanitaria>
+        <Localidad>Noáin</Localidad>
+        <Domicilio>calle Real 36</Domicilio>
+        <Codigo_Postal>31110</Codigo_Postal>
+        <Codigo_Centro>F00398</Codigo_Centro>
+        <Nombre_Centro>Vega/Errea Alonso/Gorriz Maria Jesus/Yolanda</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="331">
+        <GEORR_X>42.82179518792099</GEORR_X>
+        <GEORR_Y>-1.5867586797528628</GEORR_Y>
+        <Zona_Sanitaria>Noain</Zona_Sanitaria>
+        <Localidad>Noáin</Localidad>
+        <Domicilio>calle Agrupacion Los Porches 1</Domicilio>
+        <Codigo_Postal>31110</Codigo_Postal>
+        <Codigo_Centro>F00426</Codigo_Centro>
+        <Nombre_Centro>Garcia Ruiz, Maria Pilar</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="477">
+        <GEORR_X>42.7641418027909</GEORR_X>
+        <GEORR_Y>-1.6345623217867091</GEORR_Y>
+        <Zona_Sanitaria>Noain</Zona_Sanitaria>
+        <Localidad>Noáin</Localidad>
+        <Domicilio>calle Real 61</Domicilio>
+        <Codigo_Postal>31110</Codigo_Postal>
+        <Codigo_Centro>F00587</Codigo_Centro>
+        <Nombre_Centro>Medrano Senosiain, Estela I.</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="128">
+        <GEORR_X>42.826376396468355</GEORR_X>
+        <GEORR_Y>-1.6162243057306709</GEORR_Y>
+        <Zona_Sanitaria>Burlada</Zona_Sanitaria>
+        <Localidad>Burlada/Burlata</Localidad>
+        <Domicilio>calle Merindad de Sangüesa 3</Domicilio>
+        <Codigo_Postal>31600</Codigo_Postal>
+        <Codigo_Centro>F00179</Codigo_Centro>
+        <Nombre_Centro>Colom/Perez Lemaitre/Pardo de Vera, Mateo/Ana</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="147">
+        <GEORR_X>42.824573105230996</GEORR_X>
+        <GEORR_Y>-1.6155331577584986</GEORR_Y>
+        <Zona_Sanitaria>Burlada</Zona_Sanitaria>
+        <Localidad>Burlada/Burlata</Localidad>
+        <Domicilio>calle Las Maestras s/n</Domicilio>
+        <Codigo_Postal>31600</Codigo_Postal>
+        <Codigo_Centro>F00199</Codigo_Centro>
+        <Nombre_Centro>Iribertegui Villar, Manuel Fermin</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="157">
+        <GEORR_X>42.82357356034594</GEORR_X>
+        <GEORR_Y>-1.6140665617799623</GEORR_Y>
+        <Zona_Sanitaria>Burlada</Zona_Sanitaria>
+        <Localidad>Burlada/Burlata</Localidad>
+        <Domicilio>calle Hilarión Eslava 22</Domicilio>
+        <Codigo_Postal>31600</Codigo_Postal>
+        <Codigo_Centro>F00211</Codigo_Centro>
+        <Nombre_Centro>Ajuria Sotillo, Maria Jesus</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="257">
+        <GEORR_X>42.827140685777934</GEORR_X>
+        <GEORR_Y>-1.6192396849520232</GEORR_Y>
+        <Zona_Sanitaria>Burlada</Zona_Sanitaria>
+        <Localidad>Burlada/Burlata</Localidad>
+        <Domicilio>calle Ronda de las Ventas 15-17</Domicilio>
+        <Codigo_Postal>31600</Codigo_Postal>
+        <Codigo_Centro>F00345</Codigo_Centro>
+        <Nombre_Centro>Ochoa Garcia, Monica</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="258">
+        <GEORR_X>42.82617688304827</GEORR_X>
+        <GEORR_Y>-1.6181604442561688</GEORR_Y>
+        <Zona_Sanitaria>Burlada</Zona_Sanitaria>
+        <Localidad>Burlada/Burlata</Localidad>
+        <Domicilio>calle San Blas 5</Domicilio>
+        <Codigo_Postal>31600</Codigo_Postal>
+        <Codigo_Centro>F00346</Codigo_Centro>
+        <Nombre_Centro>Juarez Laveda, Guillermo</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="266">
+        <GEORR_X>42.8285017011109</GEORR_X>
+        <GEORR_Y>-1.6171730120705932</GEORR_Y>
+        <Zona_Sanitaria>Burlada</Zona_Sanitaria>
+        <Localidad>Burlada/Burlata</Localidad>
+        <Domicilio>calle Merindad de Sangüesa 21</Domicilio>
+        <Codigo_Postal>31600</Codigo_Postal>
+        <Codigo_Centro>F00355</Codigo_Centro>
+        <Nombre_Centro>Lopez Vaquera, Unzizu</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="387">
+        <GEORR_X>42.825803990768385</GEORR_X>
+        <GEORR_Y>-1.619897730983811</GEORR_Y>
+        <Zona_Sanitaria>Burlada</Zona_Sanitaria>
+        <Localidad>Burlada/Burlata</Localidad>
+        <Domicilio>calle Ronda de las Ventas 11</Domicilio>
+        <Codigo_Postal>31600</Codigo_Postal>
+        <Codigo_Centro>F00489</Codigo_Centro>
+        <Nombre_Centro>Uriz Peman, Maria Dolores</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="395">
+        <GEORR_X>42.82725986843667</GEORR_X>
+        <GEORR_Y>-1.6154884493580575</GEORR_Y>
+        <Zona_Sanitaria>Burlada</Zona_Sanitaria>
+        <Localidad>Burlada/Burlata</Localidad>
+        <Domicilio>calle Landazabal 1</Domicilio>
+        <Codigo_Postal>31600</Codigo_Postal>
+        <Codigo_Centro>F00498</Codigo_Centro>
+        <Nombre_Centro>Cortes Izco, Lourdes</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="419">
+        <GEORR_X>42.8234353551717</GEORR_X>
+        <GEORR_Y>-1.6175875551834493</GEORR_Y>
+        <Zona_Sanitaria>Burlada</Zona_Sanitaria>
+        <Localidad>Burlada/Burlata</Localidad>
+        <Domicilio>calle Ezpondoa 9</Domicilio>
+        <Codigo_Postal>31600</Codigo_Postal>
+        <Codigo_Centro>F00523</Codigo_Centro>
+        <Nombre_Centro>Beruete Baztan, Raquel</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="516">
+        <GEORR_X>42.82585202252509</GEORR_X>
+        <GEORR_Y>-1.6142607142179044</GEORR_Y>
+        <Zona_Sanitaria>Burlada</Zona_Sanitaria>
+        <Localidad>Burlada/Burlata</Localidad>
+        <Domicilio>calle Mayor 54</Domicilio>
+        <Codigo_Postal>31600</Codigo_Postal>
+        <Codigo_Centro>F00653</Codigo_Centro>
+        <Nombre_Centro>Jareño Diaz, Jesus</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="558">
+        <GEORR_X>42.81584432618366</GEORR_X>
+        <GEORR_Y>-1.6091432413259226</GEORR_Y>
+        <Zona_Sanitaria>Burlada</Zona_Sanitaria>
+        <Localidad>Burlada/Burlata</Localidad>
+        <Domicilio>calle Lisboa 1</Domicilio>
+        <Codigo_Postal>31600</Codigo_Postal>
+        <Codigo_Centro>F00738</Codigo_Centro>
+        <Nombre_Centro>Lizarraga Baigorri, Gema</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="556">
+        <GEORR_X>42.81665071638014</GEORR_X>
+        <GEORR_Y>-1.611398881976518</GEORR_Y>
+        <Zona_Sanitaria>Burlada</Zona_Sanitaria>
+        <Localidad>Burlada/Burlata</Localidad>
+        <Domicilio>avenida Erripagaña 19</Domicilio>
+        <Codigo_Postal>31600</Codigo_Postal>
+        <Codigo_Centro>F00735</Codigo_Centro>
+        <Nombre_Centro>Barricarte Asiain, Carlos</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="510">
+        <GEORR_X>42.83173422946874</GEORR_X>
+        <GEORR_Y>-1.6625497393612987</GEORR_Y>
+        <Zona_Sanitaria>Buztintxuri</Zona_Sanitaria>
+        <Localidad>Artica</Localidad>
+        <Domicilio>calle María Domínguez 19</Domicilio>
+        <Codigo_Postal>31013</Codigo_Postal>
+        <Codigo_Centro>F00642</Codigo_Centro>
+        <Nombre_Centro>Sesma Tejada, Miriam</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="515">
+        <GEORR_X>42.83427391329173</GEORR_X>
+        <GEORR_Y>-1.658965952970442</GEORR_Y>
+        <Zona_Sanitaria>Buztintxuri</Zona_Sanitaria>
+        <Localidad>Artica</Localidad>
+        <Domicilio>calle María Domínguez 1</Domicilio>
+        <Codigo_Postal>31013</Codigo_Postal>
+        <Codigo_Centro>F00652</Codigo_Centro>
+        <Nombre_Centro>Goyeneche Azcoiti, Fernando</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="529">
+        <GEORR_X>42.834204336469654</GEORR_X>
+        <GEORR_Y>-1.6607902093348377</GEORR_Y>
+        <Zona_Sanitaria>Buztintxuri</Zona_Sanitaria>
+        <Localidad>Artica</Localidad>
+        <Domicilio>calle María Moliner 2</Domicilio>
+        <Codigo_Postal>31013</Codigo_Postal>
+        <Codigo_Centro>F00678</Codigo_Centro>
+        <Nombre_Centro>Prados Lana, Beatriz</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
+    <row _id="559">
+        <GEORR_X>42.83365432134089</GEORR_X>
+        <GEORR_Y>-1.6633308854294433</GEORR_Y>
+        <Zona_Sanitaria>Buztintxuri</Zona_Sanitaria>
+        <Localidad>Artica</Localidad>
+        <Domicilio>calle Madres de la Plaza de Mayo 32</Domicilio>
+        <Codigo_Postal>31013</Codigo_Postal>
+        <Codigo_Centro>F00739</Codigo_Centro>
+        <Nombre_Centro>Aguado Menendez, Carmen</Nombre_Centro>
+        <Estado_Centro>Centro Autorizado</Estado_Centro>
+    </row>
 </data>
