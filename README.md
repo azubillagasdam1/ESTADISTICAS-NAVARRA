@@ -1,6 +1,6 @@
 # ESTADISTICAS-NAVARRA
 
-[![Estado del proyecto](https://img.shields.io/badge/Estado-En%20progreso-yellow)](https://github.com/azubillagasdam1/ESTADISTICAS-NAVARRA)
+[![Estado del proyecto](PáginaWeb/index.html)
 [![Tarea](https://img.shields.io/github/license/tu_usuario/tu_repositorio)](https://moodle.mariaanasanz.es/course/view.php?id=165&section=6)
 
 INFO
