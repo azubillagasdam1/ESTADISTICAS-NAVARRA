@@ -135,6 +135,19 @@
     }
   }
   
+   /* -------------------- Gráfico -----------------------*/
+   .box-grafico {
+    display: flex;
+    height: 1000px;
+    width: 100%;
+    justify-content: center;
+    padding-top: 90px;
+  }
+
+  .letras {
+    padding-left: 10px;
+  }
+
   /* -------------------- Segunda seccion -----------------------*/
   h1{
     text-align: center;
