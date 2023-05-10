@@ -144,6 +144,10 @@
     padding-top: 70px;
   }
   
+  .letras {
+    text-align: center;
+  }
+
   /* -------------------- Segunda seccion -----------------------*/
   h1{
     text-align: center;
