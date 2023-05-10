@@ -22,7 +22,7 @@
         <Estado_Centro>Centro Autorizado</Estado_Centro>
     </row>
     <row _id="3">
-        <GEORR_X>42.804205740007106,=</GEORR_X>
+        <GEORR_X>42.804205740007106</GEORR_X>
         <GEORR_Y>-1.6753288152122408</GEORR_Y>
         <Zona_Sanitaria>Echavacoiz</Zona_Sanitaria>
         <Localidad>Pamplona/Iruña</Localidad>
