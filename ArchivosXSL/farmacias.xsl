@@ -3,8 +3,8 @@
     <xsl:template match="/">
 
         <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900">
-            <image href="mapaNavarra.jpg" x="0" y="0"
-                   width="1600" height="900"/>
+            <image href="mapaNavarra2.jpg" x="0" y="0"
+                   width="1180" height="858"/>
 
             <xsl:for-each select="data/row">
             <xsl:variable name="GEORR_X" select="GEORR_X"/>
